@@ -1,8 +1,9 @@
 ### Hi there, my name is Bruno Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
 
 ## About me ##
-Bruno Felipe
+
 ```elixir
+Bruno Felipe
 |> programming_lover()
 |> passionated_about_learning()
 |> loves_backend()
