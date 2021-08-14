@@ -3,7 +3,7 @@
 ## About me ##
 
 ```elixir
-Bruno Felipe
+"Bruno Felipe"
 |> programming_lover()
 |> passionated_about_learning()
 |> loves_backend()
