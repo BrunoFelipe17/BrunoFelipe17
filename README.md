@@ -1,5 +1,14 @@
 ### Hi there, my name is Bruno Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
 
+## About me ##
+
+- 👨‍💻 Computer Technician by IFRN - _Campus_ Nova Cruz
+- 🎓 Graduating in Information Systems by UFPB - _Campus_ IV
+- 💻 Currently working with Elixir back-end applicatons
+- 🤓 Curious and passionated about learning
+
+<br />
+
 
 <!--
 **BrunoFelipe17/BrunoFelipe17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
