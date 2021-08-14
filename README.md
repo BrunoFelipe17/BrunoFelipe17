@@ -1,4 +1,4 @@
-### Hi there, my name is Bruno Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="48"> 👋
+### Hi there, my name is Bruno Felipe <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
 
 
 <!--
